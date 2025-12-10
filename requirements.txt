@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+pandas
+numpy
+pdfplumber
+beautifulsoup4
+lxml
+matplotlib
+python-multipart
+playwright
